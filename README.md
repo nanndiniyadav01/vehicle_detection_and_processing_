@@ -31,7 +31,7 @@ This is ideal for **learning computer vision**, prototyping traffic monitoring s
 
 ## 🎥 Sample Video
 
-A small sample video (`sample_video.mp4`) is included for quick testing.
+A small sample video (`video.mp4`) is included for quick testing.
 
 ---
 
@@ -59,7 +59,7 @@ streamlit run vehicle_detection_streamlit.py
 
 ```
 vehicle_detection_streamlit.py   # Main Streamlit app
-sample_video.mp4                 # Sample video for testing
+video.mp4                        # Sample video for testing
 requirements.txt                 # Python dependencies
 README.md                        # Project documentation
 ```
