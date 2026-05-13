@@ -1,10 +1,10 @@
-# 🚦 Vehicle Detection & Processing Dashboard
+#  Automated Vehicle Detection & Processing System
 
 A **Streamlit app** that detects vehicles in videos using **YOLOv8** and allows you to visualize, process, and download the results. This project is a practical introduction to **computer vision, object detection, and video processing**.
 
 ---
 
-## 🔹 Project Overview
+##  Project Overview
 
 Modern traffic systems and urban planning can greatly benefit from automated vehicle detection. This app allows users to:
 
@@ -18,7 +18,7 @@ This is ideal for **learning computer vision**, prototyping traffic monitoring s
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Multi-class vehicle detection** using YOLOv8.
 - **Interactive Streamlit interface** for easy uploads and processing.
@@ -29,13 +29,13 @@ This is ideal for **learning computer vision**, prototyping traffic monitoring s
 
 ---
 
-## 🎥 Sample Video
+## Sample Video
 
 A small sample video (`video.mp4`) is included for quick testing.
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 ### **1. Clone the repository**
 ```bash
@@ -55,7 +55,7 @@ streamlit run vehicle_detection_streamlit.py
 
 ---
 
-## 🛠 File Structure
+##  File Structure
 
 ```
 vehicle_detection_streamlit.py   # Main Streamlit app
@@ -66,7 +66,7 @@ README.md                        # Project documentation
 
 ---
 
-## 🔮 Future Advancements
+##  Future Advancements
 
 This project is highly extendable. Possible improvements include:
 
@@ -83,7 +83,7 @@ This project is highly extendable. Possible improvements include:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Python** – programming language
 - **Streamlit** – for interactive web interface
@@ -95,7 +95,7 @@ This project is highly extendable. Possible improvements include:
 
 ---
 
-## 💡 Notes
+##  Notes
 
 - Best tested with small/medium videos (<50 MB).  
 - Model selection affects **accuracy vs. speed**:  
@@ -104,13 +104,13 @@ This project is highly extendable. Possible improvements include:
 
 ---
 
-## 📄 License
+## License
 
 MIT License – feel free to use, modify, and extend this project.
 
 ---
 
-## ⭐ Contributing
+##  Contributing
 
 This project is open for contributions! Some ideas:
 
